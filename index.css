@@ -1,0 +1,38 @@
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: #dcefff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container {
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #4a90e2;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 15px 25px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 12px;
+    background-color: #6fcf97;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    background-color: #56b681;
+  }
+  
